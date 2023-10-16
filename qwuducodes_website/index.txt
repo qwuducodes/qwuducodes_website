@@ -1,0 +1,11 @@
+Website name - qwuducodes
+Github repositories done
+Create landing page
+Navbar- Patrick
+Content home page- Caleb
+Blog and contact page - Diana
+Media and media queries- Peter
+About page - Nick
+footer- Erick
+
+
